@@ -7,6 +7,7 @@
    ​Unindo código, design e estratégia de mercado, meu objetivo é criar interfaces que não sejam apenas bonitas, mas que tragam um impacto visual ao usuário e também tragam resultados reais para o negócio.
 
    ​Sinta-se à vontade para se conectar comigo ou entrar em contato pelo e-mail!</p>
+![Snake Game](https://raw.githubusercontent.com/aJeaneSilva/aJeaneSilva/output/github-contribution-grid-snake.svg)
    <br>
 <h2>Habilidades em:</h2>
 <div>
