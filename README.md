@@ -1,4 +1,4 @@
-<h1>Desenvolvedora Front-End em formação</h1>
+<h1 align="center">Desenvolvedora Front-End em formação</h1>
 
 <p>---Olá! Me chamo Jeane, tenho 18 anos e sou uma Desenvolvedora Web Front-end em formação. 👩🏽‍💻 Atualmente, faço parte do programa Ford <Enter> no SENAI CIMATEC, onde desenvolvo projetos práticos com HTML5, CSS3, JavaScript, Angular, TypeScript, design responsivo e versionamento com Git e GitHub.
 
@@ -18,10 +18,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
 </div>
 <br>
+<h2>- Estatísticas:</h2>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aJeaneSilva&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aJeaneSilva&layout=compact&theme=tokyonight"/>
+</div>
 <h2>- Ferramentas:</h2>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VScode" />
 </div>
    <br>
 <h2>- Contatos:<h2>
