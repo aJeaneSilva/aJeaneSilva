@@ -8,7 +8,7 @@
 
    ​Sinta-se à vontade para se conectar comigo ou entrar em contato pelo e-mail!</p>
 ![Snake Game](https://raw.githubusercontent.com/aJeaneSilva/aJeaneSilva/output/github-contribution-grid-snake.svg)
-   <br>
+
 <h2>- Habilidades em:</h2>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
