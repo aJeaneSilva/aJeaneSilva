@@ -1,6 +1,6 @@
 <h1 align="center">Desenvolvedora Front-End</h1>
 
-<p>---Olá! Me chamo Jeane, tenho 18 anos e sou uma Desenvolvedora Web Front-end em formação. 👩🏽‍💻 Atualmente, faço parte do programa Ford <Enter> no SENAI CIMATEC, onde desenvolvo projetos práticos com HTML5, CSS3, JavaScript, Angular, TypeScript, design responsivo e versionamento com Git e GitHub.
+<p>---Olá! Me chamo Jeane, tenho 18 anos e sou uma Desenvolvedora Web Front-end em formação. 👩🏽‍💻 Atualmente, faço parte do programa Ford <Enter> no SENAI CIMATEC, onde desenvolvo projetos práticos com HTML5, CSS3, JavaScript, Angular e TypeScript.
 
    ​Antes de focar na programação, construí uma bagagem sólida em Marketing Digital, Design e Copywriting, atuando como criadora de conteúdo UGC e prestando serviços de consultoria para redes sociais corporativas. Essa experiência me deu uma visão comercial apurada e a habilidade de entender o comportamento do usuário.
 
