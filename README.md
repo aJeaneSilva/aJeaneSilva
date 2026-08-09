@@ -25,13 +25,34 @@
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aJeaneSilva&theme=tokyonight" alt="Perfil e Linguagens" />
 </div>
 
+
    <br>
-<h2>Contatos:<h2>
-<div>
-<a href="https://instagram.com/ajann.y" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@jeaneps.contact"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jeane-silva-89b73a3b5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<h2>// Conecte-se Comigo:</h2>
+<div align="center">
+  <p>Sinta-se à vontade para enviar uma mensagem ou se conectar nas redes!</p>
+  <a href="https://www.linkedin.com/in/jeane-silva-89b73a3b5/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram&perline=3" alt="Redes Sociais" />
+  </a>
 </div>
-  
-<h3>Link para o meu portifólio: <a href = "https://portifio-ajeanesilva.vercel.app/">Clique aqui!</a></h3>
+
+<br>
+<div align="center">
+  <table width="80%">
+    <tr>
+      <td align="center" style="background-color: #0d1117; border: 1px solid #a855f7; border-radius: 10px; padding: 15px;">
+        <h3>Meus Projetos & Portfólio Web</h3>
+        <p>Acesse minha plataforma online para conferir meus projetos e jornada no Front-End!</p>
+        <a href="https://portifio-ajeanesilva.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/_ACESSAR_PORTFÓLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+        </a>
+        <br/>
+        <sub style="color: #a855f7;"></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- RODAPÉ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
