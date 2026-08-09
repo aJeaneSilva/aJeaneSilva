@@ -50,7 +50,7 @@
         <h3>Meus Projetos & Portfólio Web</h3>
         <p>Acesse minha plataforma online para conferir meus projetos e jornada no Front-End!</p>
         <a href="https://portifio-ajeanesilva.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/_ACESSAR_PORTFÓLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+          <img src="https://img.shields.io/badge/_ACESSAR_PORTFÓLIO-6D28D9?style=for-the-badge" alt="Portfólio" />
         </a>
         <br/>
         <sub style="color: #a855f7;"></sub>
