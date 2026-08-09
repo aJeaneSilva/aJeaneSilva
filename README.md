@@ -16,7 +16,8 @@
 
 <h2>Habilidades & Ferramentas:</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,figma,vscode,&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,&perline=8"/>
 </div>
 <br>
 <h2>Estatísticas:</h2>
