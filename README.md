@@ -10,8 +10,8 @@
    ​Antes de focar na programação, construí uma bagagem sólida em Marketing Digital, Design e Copywriting, atuando como criadora de conteúdo UGC e prestando serviços de consultoria para redes sociais corporativas. Essa experiência me deu uma visão comercial apurada e a habilidade de entender o comportamento do usuário.
 
    ​Unindo código, design e estratégia de mercado, meu objetivo é criar interfaces que não sejam apenas bonitas, mas que tragam um impacto visual ao usuário e também tragam resultados reais para o negócio.
+</p>
 
-   ​Sinta-se à vontade para se conectar comigo ou entrar em contato pelo e-mail!</p>
 ![Snake Game](https://raw.githubusercontent.com/aJeaneSilva/aJeaneSilva/output/github-contribution-grid-snake.svg)
 
 <h2>Habilidades & Ferramentas:</h2>
