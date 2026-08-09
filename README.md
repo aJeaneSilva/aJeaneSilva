@@ -33,8 +33,8 @@
   <a href="https://www.linkedin.com/in/jeane-silva-89b73a3b5/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=3" alt="Redes Sociais" />
   </a>
-   <a href="https://" target="_blank">
-    <img src="mailto:contato@jeaneps.contact?i=gmail&perline=3" alt="Redes Sociais" />
+    <a href="mailto:contato@jeaneps.contact" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=3" alt="Redes Sociais" />
   </a>
    <a href="https://www.instagram.com/ajann.y/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&perline=3" alt="Redes Sociais" />
