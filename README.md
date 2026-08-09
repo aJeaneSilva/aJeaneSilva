@@ -31,7 +31,13 @@
 <div align="center">
   <p>Sinta-se à vontade para enviar uma mensagem ou se conectar nas redes!</p>
   <a href="https://www.linkedin.com/in/jeane-silva-89b73a3b5/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram&perline=3" alt="Redes Sociais" />
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=3" alt="Redes Sociais" />
+  </a>
+   <a href="https://" target="_blank">
+    <img src="mailto:contato@jeaneps.contact?i=gmail&perline=3" alt="Redes Sociais" />
+  </a>
+   <a href="https://www.instagram.com/ajann.y/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&perline=3" alt="Redes Sociais" />
   </a>
 </div>
 
@@ -53,6 +59,4 @@
 </div>
 
 <br>
-
-<!-- RODAPÉ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
